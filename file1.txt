@@ -1,2 +1,5 @@
 hello world file1
 Finally here
+
+Adding something here
+To demonstrate fetch and merge
